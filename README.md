@@ -31,15 +31,22 @@
 
 ## **Installation**
   
-  n/a
-
+ 1) Clone or download zip file
+ 
+ 2) Navigate to respective folder
+ 
+ 3) ```npm i```
+ 
 ## **Usage**
 
-  n/a
+  ```npm run dev```
+  
+  Test API using Postman or Insomnia
 
 ## **Contribution**
 
   n/a
+  See email below
   
 ## **Testing**
 
